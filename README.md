@@ -1,6 +1,6 @@
-# Goxel2 AUR
-Goxel2's AUR Packages Collection
+# Csprite AUR
+Csprite's AUR Packages Collection
 
-- [Goxel2 Git Stable](https://aur.archlinux.org/packages/goxel2)
-- [Goxel2 Git Latest](https://aur.archlinux.org/packages/goxel2-git)
-- [Goxel2 Latest Bin](https://aur.archlinux.org/packages/goxel2-bin)
+- [Csprite Git Stable](https://aur.archlinux.org/packages/csprite)
+- [Csprite Git Latest](https://aur.archlinux.org/packages/csprite-git)
+- [Csprite Latest Bin](https://aur.archlinux.org/packages/csprite-bin)
