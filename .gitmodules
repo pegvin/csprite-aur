@@ -1,0 +1,9 @@
+[submodule "csprite"]
+	path = csprite
+	url = ssh://aur@aur.archlinux.org/csprite.git
+[submodule "csprite-git"]
+	path = csprite-git
+	url = ssh://aur@aur.archlinux.org/csprite-git.git
+[submodule "csprite-bin"]
+	path = csprite-bin
+	url = ssh://aur@aur.archlinux.org/csprite-bin.git
